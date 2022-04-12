@@ -8,7 +8,7 @@ const config: GatsbyConfig = {
     {
       resolve: "gatsby-plugin-hubspot",
       options: {
-        trackingCode: "1234567",
+        trackingCode: "25762093",
         respectDNT: false,
         productionOnly: true,
       },
